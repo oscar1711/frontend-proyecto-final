@@ -1,5 +1,6 @@
 module.exports= {
     api: {
-        baseURL: "http://localhost:5000"
+        baseURL: "https://backend-proyecto-final-h4on.onrender.com"
+        //"http://localhost:5000"
     }
 }
